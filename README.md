@@ -1,5 +1,7 @@
 # PythonFinal
 Python 3 Final Project
+<img src = "Code.png"/>
+
 # Name
 HeimsHandbook.py
 

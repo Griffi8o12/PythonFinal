@@ -4,7 +4,7 @@ Python 3 Final Project
 HeimsHandbook.py
 
 # Description
-HeimsHandbook is a database of all the champion in League of Legends
+HeimsHandbook is a database of all the champion in League of Legends, displaying champion static stats on game start. As well as minimal Summoner information
 
 # Installation
 Copy or clone the repository
